@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>McGill, Department of Mathematics and Statistics </a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.mcgill.ca/mathstat/'>McGill, Department of Mathematics and Statistics </a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
