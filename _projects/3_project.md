@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 3
-description: Spectral and 
+description: Dimension reduction
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3

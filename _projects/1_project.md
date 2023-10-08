@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: Clustering and Significance of Clustering
+title: Clustering and Significance of Clustering
+description: 
 img: assets/img/12.jpg
 importance: 1
 category: work
