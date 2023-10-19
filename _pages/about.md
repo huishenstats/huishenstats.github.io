@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.mcgill.ca/mathstat/'>McGill, Department of Mathematics and Statistics </a>. Burnside Hall, 805 Sherbrooke Street West, Montreal, Quebec H3A 0B9. 
+subtitle: <a href='https://www.mcgill.ca/mathstat/'>McGill University, Department of Mathematics and Statistics.  
 
 profile:
   align: right
