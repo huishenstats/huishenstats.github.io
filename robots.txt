@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://huishenstats.github.io/sitemap.xml
