@@ -10,6 +10,6 @@ children:
     - title: divider
 #    - title: projects
 #      permalink: /projects/
-    - title: hobbies
-      permalink: /hobbies/
+#    - title: hobbies
+#      permalink: /hobbies/
 ---
